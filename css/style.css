@@ -28,6 +28,7 @@ nav {
 nav h1 {
   font-size: 2rem;
   color: #fff;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 nav ul {
@@ -148,7 +149,7 @@ footer {
 
 
   .produtos .galeria {
-    flex-direction: column;
+    flex-direction: row-reverse;
   }
 
   .contato ul {
